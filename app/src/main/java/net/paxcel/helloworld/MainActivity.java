@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("test","tesbasd");
         Log.i("test","newbranch1Code");
+        Log.i("test","patch");
     }
 }
